@@ -1,0 +1,15 @@
+..\obj\rtcm.o: ..\MyCode\RTCM\RTCM.c
+..\obj\rtcm.o: ..\MyCode\RTCM\RTCM.h
+..\obj\rtcm.o: ..\SYSTEM\sys\sys.h
+..\obj\rtcm.o: ..\USER\stm32f10x.h
+..\obj\rtcm.o: ..\CORE\core_cm3.h
+..\obj\rtcm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\rtcm.o: ..\USER\system_stm32f10x.h
+..\obj\rtcm.o: ..\USER\stm32f10x_conf.h
+..\obj\rtcm.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\rtcm.o: ..\USER\stm32f10x.h
+..\obj\rtcm.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\rtcm.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\rtcm.o: ..\STM32_FWLIB\inc\misc.h
+..\obj\rtcm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\rtcm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
